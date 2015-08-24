@@ -17,7 +17,7 @@ avatar: images/crypty.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
+  email: daniel.weissman@emory.edu
   facebook: 
   flickr: 
   github: weissman
@@ -26,7 +26,7 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: dbweissman
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow:  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
