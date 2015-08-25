@@ -15,7 +15,6 @@ First, we need to understand how to infer prevailing population dynamics from po
 Second, given these patterns, what do we expect the population to do in the future, and how can we test our predictions in scaled-down lab populations? 
 A particular focus of my work on this second problem has been on understanding the likelihood and dynamics of complex adaptations whose benefits require combinations of multiple mutations.
 
-
 ### Projects:
 <ul>
   {% for page in site.html_pages %}
