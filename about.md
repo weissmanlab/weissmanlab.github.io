@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Quantitative evolutionary theory"
+title: "Research"
 permalink: /about/
 ---
 
