@@ -12,7 +12,7 @@ But we have found that standard evolutionary theory predicts that it should actu
 fairly often in large populations. 
 Now we need to figure out what factors (such as [spatial structure](/research/space.html) or [adaptation elsewhere in the genome](/research/interference.html)) 
 determine how much complexity different populations should be able to evolve,
-and what signatures we can use to detect it in nature.
+and what signatures we can use to [detect it in nature](/research/inference.html).
 
 More generally, complex adaptations might involve a mutation and a migration rather than multiple mutations.
 For example, a zoonotic pathogen may need to both cross to humans and adapt to them in order to spread.

@@ -12,6 +12,6 @@ These associations arise because of [functional interactions among genes](/resea
 [population subdivision](/research/space.html), and simply as a necessary consequence of finite population size.
 One particularly important form is when beneficial alleles are negatively associated with each other,
 interfering with selection for each other.
-How strong is this effect in natural populations, and how can we detect it? 
+How strong is this effect in natural populations, and how can we [detect](/research/inference.html) it? 
 How much recombination is needed to break down interference? 
 
