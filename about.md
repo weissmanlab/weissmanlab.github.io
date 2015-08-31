@@ -6,14 +6,15 @@ permalink: /about/
 
 Publication list at [Google Scholar](https://scholar.google.com/citations?user=8ckkLFgAAAAJ)
 
-I build and analyze models of biological populations to predict their future evolution. 
-Ultimately, we would like to understand evolution well enough that, for example, when a new antibiotic is developed, 
-a reasonable number of experiments would be enough to learn how long it would take for bacteria to become resistant. 
-This goal is just starting to become realistic due to rapid advances in sequencing technology. 
+We want to be able to predict how populations will evolve.
+For example, when a new antibiotic is developed, we need to know
+whether it will take bacteria weeks or decades to develop resistance,
+and what we can do to affect this.
+This goal is just starting to become realistic due to rapid advances in genetic sequencing technology. 
 Now we need to solve a pair of theoretical problems in order to translate this sequence data into evolutionary predictions. 
-First, we need to understand how to infer prevailing population dynamics from population genomic data — given a set of sequenced individuals, what can we learn about patterns of reproduction, migration, and adaptation in the population that they came from? 
-Second, given these patterns, what do we expect the population to do in the future, and how can we test our predictions in scaled-down lab populations? 
-A particular focus of my work on this second problem has been on understanding the likelihood and dynamics of complex adaptations whose benefits require combinations of multiple mutations.
+First, we need to understand how to infer prevailing population dynamics from population genomic data 
+Second, given these patterns, we need to calculate the spectrum of possible evolutionary trajectories.
+Within these broad areas, our research on several key questions listed below.
 
 ### Projects:
 <ul>
