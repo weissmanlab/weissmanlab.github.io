@@ -10,6 +10,10 @@ Postdoc & grad student positions available!
 
 [Daniel Weissman](/people/dbw.html)
 
+### Rotation students
+
+Mahan Ghafari
+
 ### Undergraduates
 
 Jayeol Chun
