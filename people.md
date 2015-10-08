@@ -14,6 +14,8 @@ Postdoc & grad student positions available!
 
 Mahan Ghafari
 
+Katherine Overman
+
 ### Undergraduates
 
 Jayeol Chun
