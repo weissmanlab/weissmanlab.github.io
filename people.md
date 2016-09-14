@@ -10,11 +10,13 @@ Postdoc & grad student positions available!
 
 [Daniel Weissman](/people/dbw.html)
 
-### Rotation students
+### Postdocs
+
+Itai Pinkoviezky
+
+### PhD students
 
 Mahan Ghafari
-
-Katherine Overman
 
 ### Undergraduates
 
