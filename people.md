@@ -18,6 +18,12 @@ Itai Pinkoviezky
 
 Mahan Ghafari
 
+### Rotation students
+
+Brent Allman
+
+Ahmed Roman
+
 ### Undergraduates
 
-Jayeol Chun
+Caroline Holmes
