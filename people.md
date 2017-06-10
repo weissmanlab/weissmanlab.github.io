@@ -6,6 +6,9 @@ permalink: /people/
 
 Postdoc & grad student positions available!
 
+![Group](/images/group2017.jpg)
+(L-R: Itai, Jayeol, Mahan, Daniel, Brent, Caroline, Ahmed)
+
 ### PI
 
 [Daniel Weissman](/people/dbw.html)
@@ -30,4 +33,4 @@ Jayeol Chun
 
 ### Alumni
 
-Caroline Holmes (BA, now at Princeton)
+Caroline Holmes (BA 2017, now at Princeton)
