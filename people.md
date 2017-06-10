@@ -26,4 +26,8 @@ Ahmed Roman
 
 ### Undergraduates
 
-Caroline Holmes
+Jayeol Chun
+
+### Alumni
+
+Caroline Holmes (BA, now at Princeton)
