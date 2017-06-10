@@ -15,3 +15,6 @@ interfering with selection for each other.
 How strong is this effect in natural populations, and how can we [detect](/research/inference.html) it? 
 How much recombination is needed to break down interference? 
 
+Papers:
+- [Weissman and Barton (2012), Limits to the rate of adaptive substitution in sexual populations](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002740)
+- [Weissman and Hallatschek (2014), The rate of adaptation in large sexual populations with linear chromosomes](http://www.genetics.org/content/196/4/1167.full-text.pdf%2Bhtml)

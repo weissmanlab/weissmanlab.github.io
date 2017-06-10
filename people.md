@@ -18,6 +18,16 @@ Itai Pinkoviezky
 
 Mahan Ghafari
 
+### Rotation students
+
+Brent Allman
+
+Ahmed Roman
+
 ### Undergraduates
 
 Jayeol Chun
+
+### Alumni
+
+Caroline Holmes (BA, now at Princeton)
