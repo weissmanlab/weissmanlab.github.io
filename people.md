@@ -4,7 +4,9 @@ title: "People"
 permalink: /people/
 ---
 
-Postdoc & grad student positions available!
+Postdoc positions available! 
+Prospective graduate students: please apply to the graduate programs in [Physics](http://www.physics.emory.edu/home/academic/graduate/index.html)
+or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROGRAM_SITES/PBEE/index.html).
 
 ![Group](/images/group2017.jpg)
 (L-R: Itai, Jayeol, Mahan, Daniel, Brent, Caroline, Ahmed)
