@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-Postdoc positions available! 
+[Postdoc positions available](http://life.mcmaster.ca/~brian/evoldir/PostDocs/EmoryU.TheoreticalEvolutionaryGenetics)! 
 Prospective graduate students: please apply to the graduate programs in [Physics](http://www.physics.emory.edu/home/academic/graduate/index.html)
 or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROGRAM_SITES/PBEE/index.html).
 
