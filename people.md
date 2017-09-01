@@ -21,13 +21,9 @@ Itai Pinkoviezky
 
 ### PhD students
 
-Mahan Ghafari
-
-### Rotation students
-
 Brent Allman
 
-Ahmed Roman
+Mahan Ghafari
 
 ### Undergraduates
 
