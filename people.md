@@ -9,7 +9,7 @@ Prospective graduate students: please apply to the graduate programs in [Physics
 or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROGRAM_SITES/PBEE/index.html).
 
 ![Group](/images/group2017.jpg)
-(L-R: Itai, Jayeol, Mahan, Daniel, Brent, Caroline, Ahmed)
+(L-R: Itai, Jayeol, Mahan, Daniel, Brent, Caroline)
 
 ### PI
 
