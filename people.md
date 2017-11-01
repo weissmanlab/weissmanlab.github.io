@@ -25,6 +25,8 @@ Brent Allman
 
 Mahan Ghafari
 
+Tyler Smith
+
 ### Undergraduates
 
 Jayeol Chun
