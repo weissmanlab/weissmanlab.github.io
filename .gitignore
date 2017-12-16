@@ -10,3 +10,5 @@ package.json
 *.lock
 
 Gemfile.lock
+topics.txt
+
