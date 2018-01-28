@@ -15,6 +15,6 @@ We are looking at several interesting effects:
  This greatly increases the amount of [clonal interference](/research/interference.html) in asexual populations, 
  but what about sexual populations? Preprint coming soon!
 - So space has a large effect on how adaptive alleles interact with each other, but how does it change how they affect 
-neutral variation, i.e., how does hitchhiking work in space? [Very strangely!](http://biorxiv.org/content/early/2016/10/30/084426)
+neutral variation, i.e., how does hitchhiking work in space? [Very strangely!](http://dx.doi.org/10.1111/evo.13431)
 - Spatial structure can have huge effects on the probability of [complex adaptation](/research/complex.html),
 but in which circumstances exactly? And how does answer depend on whether the population is also adapting in other ways?
