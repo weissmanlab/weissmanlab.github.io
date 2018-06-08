@@ -26,12 +26,12 @@ Brent Allman
 
 Mahan Ghafari
 
+Qihan Liu
+
 Tyler Smith
-
-### Undergraduates
-
-Jayeol Chun
 
 ### Alumni
 
-Caroline Holmes (BA 2017, now at Princeton)
+Jayeol Chun (BS 2018, now at Brandeis)
+
+Caroline Holmes (BS 2017, now at Princeton)
