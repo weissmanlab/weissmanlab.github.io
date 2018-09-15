@@ -32,6 +32,8 @@ Tyler Smith
 
 ### Alumni
 
-Jayeol Chun (BS 2018, now at Brandeis)
+Mahan Ghafari (MSc 2018, now D.Phil. student at Oxford University)
 
-Caroline Holmes (BS 2017, now at Princeton)
+Jayeol Chun (BS 2018, now Ph.D. student at Brandeis University)
+
+Caroline Holmes (BS 2017, now Ph.D. student at Princeton University)
