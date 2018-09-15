@@ -24,8 +24,6 @@ Itai Pinkoviezky
 
 Brent Allman
 
-Mahan Ghafari
-
 Qihan Liu
 
 Tyler Smith
