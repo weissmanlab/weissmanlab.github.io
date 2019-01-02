@@ -18,6 +18,8 @@ or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROG
 
 ### Postdocs
 
+Rohan Mehta
+
 Itai Pinkoviezky
 
 ### PhD students
