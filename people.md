@@ -41,4 +41,6 @@ Jayeol Chun (BS 2018, now Ph.D. student at Brandeis University)
 Caroline Holmes (BS 2017, now Ph.D. student at Princeton University)
 
 
+### Diversity
 
+Our lab welcomes participants of any socio-economic background, nationality, race/ethnicity, religion, gender identification, sexual orientation, age, or disability status. We believe in the importance of equity and inclusion in our group and in our community.
