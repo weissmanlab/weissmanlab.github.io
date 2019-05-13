@@ -9,8 +9,8 @@ Postdoc positions available! Please contact Daniel if interested.
 Prospective graduate students: please apply to the graduate programs in [Physics](http://www.physics.emory.edu/home/academic/graduate/index.html)
 or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROGRAM_SITES/PBEE/index.html).
 
-![Group](/images/group2017.jpg)
-(L-R: Itai, Jayeol, Mahan, Daniel, Brent, Caroline)
+![Group](/images/group2019-1.jpg)
+(L-R: Daniel, Rohan, Brent, Linnea, Tyler, Qihan)
 
 ### PI
 
@@ -26,9 +26,9 @@ Itai Pinkoviezky
 
 Brent Allman
 
-Qihan Liu
+Linnea Bavik
 
-Maha Rahman
+Qihan Liu
 
 Tyler Smith
 
