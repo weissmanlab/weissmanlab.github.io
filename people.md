@@ -24,7 +24,7 @@ Itai Pinkoviezky
 
 ### PhD students
 
-Brent Allman
+[Brent Allman](/people/bea.html)
 
 Linnea Bavik
 
