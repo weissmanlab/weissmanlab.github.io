@@ -30,7 +30,7 @@ Linnea Bavik
 
 Qihan Liu
 
-Tyler Smith
+[Tyler Smith](/people/tbs.html)
 
 ### Alumni
 
