@@ -28,7 +28,7 @@ Itai Pinkoviezky
 
 Linnea Bavik
 
-Qihan Liu
+[Qihan Liu](/people/ql.html)
 
 Tyler Smith
 
