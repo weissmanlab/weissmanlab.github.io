@@ -18,7 +18,7 @@ or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROG
 
 ### Postdocs
 
-Rohan Mehta
+[Rohan Mehta](/people/rsm.html)
 
 Itai Pinkoviezky
 
