@@ -10,4 +10,4 @@ Tyler is a PhD candidate in the Physics Graduate Program at Emory, and is intere
 Outside of research, Tyler enjoys doing improv comedy, playing poker, and hanging out with his cats.
 
 [CV](/people/cv_tbs.pdf)
-<img src="/images/TylerS.jpg" alt="TylerS" width="200"/>
+<img src="/images/TylerS.jpg" alt="TylerS" width="50"/>
