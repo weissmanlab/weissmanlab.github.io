@@ -26,7 +26,7 @@ Itai Pinkoviezky
 
 [Brent Allman](/people/bea.html)
 
-Linnea Bavik
+[Linnea Bavik](/people/Linnea.html)
 
 [Qihan Liu](/people/ql.html)
 
