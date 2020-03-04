@@ -18,7 +18,7 @@ or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROG
 
 ### Postdocs
 
-Rohan Mehta
+[Rohan Mehta](/people/rsm.html)
 
 Itai Pinkoviezky
 
@@ -28,9 +28,9 @@ Itai Pinkoviezky
 
 Linnea Bavik
 
-Qihan Liu
+[Qihan Liu](/people/ql.html)
 
-Tyler Smith
+[Tyler Smith](/people/tbs.html)
 
 ### Alumni
 
