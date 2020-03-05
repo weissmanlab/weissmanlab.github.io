@@ -11,4 +11,6 @@ Publication list at [Google Scholar](https://scholar.google.com/citations?user=x
 
 [CV](/people/cv_rsm.pdf)
 
+[Personal Website](https://rohansmehta.github.io/)
+
 <img src="/images/photo_rohan.jpg" height="25%" width="25%">
