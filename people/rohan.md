@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rohan Mehta"
-permalink: /people/rsm.html
+permalink: /people/rohan.html
 categories: [people]
 ---
 
@@ -9,7 +9,7 @@ Rohan is a postdoctoral researcher in the Weissman Lab. He studies evolutionary 
 
 Publication list at [Google Scholar](https://scholar.google.com/citations?user=xYbHaRoAAAAJ&hl=en)
 
-[CV](/people/cv_rsm.pdf)
+[CV](/people/cv_rohan.pdf)
 
 [Personal Website](https://rohansmehta.github.io/)
 
