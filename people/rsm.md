@@ -11,4 +11,4 @@ Publication list at [Google Scholar](https://scholar.google.com/citations?user=x
 
 [CV](/people/cv_rsm.pdf)
 
-<img src="/images/photo_rsm.jpg" height="24" width="48">
+<img src="/images/photo_rsm.jpg" height="50%" width="50%">
