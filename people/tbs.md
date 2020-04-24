@@ -5,9 +5,8 @@ permalink: /people/tbs.html
 categories: [people]
 ---
 
-Tyler is a PhD candidate in the Physics Graduate Program at Emory, and is interested in the relation between dispersal and isolation by distance in spatially structured populations.  His current research efforts involve extending classical population genetics models to include the effects of long range dispersal, and developing inference schemes based on these generalized models that estimate the dispersal dynamics of animal and microbial populations from genetic data.  
+Tyler is a fifth year PhD candidate in the Physics Graduate Program at Emory, where he works with professor Daniel Weissman on developing mathematical models of how the movement of individuals through space affects the genetic diversity of entire populations.  In addition to developing new models, Tyler is interested in applying these models to genetic data in order to estimate the dispersal and demographic properties of real populations.  Outside of research, Tyler enjoys doing improv comedy, playing poker, and hanging out with his cats.
 
-Outside of research, Tyler enjoys doing improv comedy, playing poker, and hanging out with his cats.
 
 [CV](/people/cv_tbs.pdf)
 <img src="/images/TylerS.jpg" alt="TylerS" width="50"/>
