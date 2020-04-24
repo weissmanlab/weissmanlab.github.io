@@ -9,4 +9,4 @@ Tyler is a fifth year PhD candidate in the Physics Graduate Program at Emory, wh
 
 
 [CV](/people/cv_tbs.pdf)
-<img src="/images/TylerS.jpg" alt="TylerS" width="50"/>
+<img src="/images/TylerS.jpg" alt="TylerS" width="200"/>
