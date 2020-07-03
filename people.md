@@ -20,8 +20,6 @@ or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROG
 
 [Rohan Mehta](/people/rohan.html)
 
-Itai Pinkoviezky
-
 ### PhD students
 
 [Brent Allman](/people/bea.html)
@@ -40,6 +38,7 @@ Jayeol Chun (BS 2018, now Ph.D. student at Brandeis University)
 
 Caroline Holmes (BS 2017, now Ph.D. student at Princeton University)
 
+Itai Pinkoviezky (postdoc, now at Craneware)
 
 ### Diversity
 
