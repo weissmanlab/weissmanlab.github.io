@@ -15,7 +15,7 @@ Students interested in applying to PBEE should also contact Daniel before applyi
 
 ### Diversity
 
-Our lab welcomes participants of every socio-economic background, nationality, race/ethnicity, religion, gender identification, sexual orientation, age, or disability status. We all strive to treat each other with kindness and respect, and help each other in studying the natural world. We believe in the importance of equity and inclusion in our group and in our community.
+Our lab welcomes participants of every socio-economic background, nationality, race/ethnicity, religion, gender identification, sexual orientation, age, and disability status. We all strive to treat each other with kindness and respect, and help each other in studying the natural world. We believe in the importance of equity and inclusion in our group and in our community.
 
 ### PI
 
