@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations, Brent!"
+title: "Brent wins PBEE student of the year!"
 published: true
 ---
 

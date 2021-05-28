@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brent Allman wins Fierce Leadership Award"
+title: "Brent Allman wins Fierce Leadership Award!"
 published: true
 ---
 

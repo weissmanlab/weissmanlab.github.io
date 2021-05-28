@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brent Allman inducted into Bouchet Honor Society"
+title: "Brent Allman inducted into Bouchet Honor Society!"
 published: true
 ---
 
