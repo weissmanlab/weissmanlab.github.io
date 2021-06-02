@@ -12,7 +12,7 @@ Students interested in applying to PBEE should also contact Daniel before applyi
 
 ![Group picture](/images/group2021+rohan.jpg)
 
-(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the inset. Not pictured: Adrian, Akash, Kathy, Zack. Photo credit: [Michal Arbilly](https://michalarbilly.com/))
+(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the inset. Not pictured: Adrian, Akash, Kathy, Zach. Photo credit: [Michal Arbilly](https://michalarbilly.com/))
 
 ### Diversity
 
@@ -39,6 +39,15 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 ### Undergraduates
 
 Akash Arani
+
+Adrian Gushin
+
+Arushi Dhillon
+
+Zach Karol
+
+Kathy Ning
+
 
 ### Alumni
 
