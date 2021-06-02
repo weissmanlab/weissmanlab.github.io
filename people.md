@@ -10,8 +10,9 @@ Prospective graduate students: please apply to the graduate programs in [Physics
 or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROGRAM_SITES/PBEE/index.html) (PBEE).
 Students interested in applying to PBEE should also contact Daniel before applying if possible; for Physics this is unnecessary.
 
-![Group](/images/group2021.jpg) ![Rohan](/images/rohan2021.jpg)
-(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, Rohan)
+<img src="/images/group2021.jpg" alt="Group picture">
+<img src="/images/rohan2021.jpg" alt="Rohan, a few minutes before the rest of us took the picture">
+(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the sidecar)
 
 ### Diversity
 
