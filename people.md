@@ -11,7 +11,8 @@ or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROG
 Students interested in applying to PBEE should also contact Daniel before applying if possible; for Physics this is unnecessary.
 
 <img src="/images/group2021.jpg" alt="Group picture">
-<img src="/images/rohan2021.jpg" alt="Rohan, a few minutes before the rest of us took the picture">
+<img src="/images/rohan2021.jpg" width="229" height="340" alt="Rohan, a few minutes before the rest of us took the picture">
+
 (L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the sidecar)
 
 ### Diversity
