@@ -4,11 +4,13 @@ title: "People"
 permalink: /people/
 ---
 
-Postdoc positions available! Please contact Daniel if interested.
+Postdoc positions are potentially available, including [Fellowships in the Theory and Modeling of Living Systems](http://livingtheory.emory.edu/people/post-docs.html). Please contact Daniel if interested.
 
-Prospective graduate students: please apply to the graduate programs in [Physics](http://www.physics.emory.edu/home/academic/graduate/index.html)
+Prospective graduate students: please apply to the graduate programs in [Physics](http://www.physics.emory.edu/home/grad/index.html)
 or [Population Biology, Ecology, and Evolution](http://www.biomed.emory.edu/PROGRAM_SITES/PBEE/index.html) (PBEE).
 Students interested in applying to PBEE should also contact Daniel before applying if possible; for Physics this is unnecessary.
+
+Undergraduates: please contact Daniel directly. Ordinarily, undergraduates joining the group should have some familiarity with programming and should start no later than the beginning of their junior year. Earlier is better---making a real scientific discovery takes time! 
 
 ![Group picture](/images/group2021+rohan.jpg)
 
