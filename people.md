@@ -36,8 +36,6 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Qihan Liu](/people/ql.html)
 
-[Tyler Smith](/people/tbs.html)
-
 ### Tech
 
 Akash Arani
@@ -52,6 +50,8 @@ Zach Karol
 
 
 ### Alumni
+
+Tyler Smith (Ph.D. 2021, now researcher at Boeing)
 
 Mahan Ghafari (MSc 2018, now D.Phil. student at Oxford University)
 
