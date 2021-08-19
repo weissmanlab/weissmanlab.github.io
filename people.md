@@ -38,17 +38,17 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Tyler Smith](/people/tbs.html)
 
-### Undergraduates
+### Tech
 
 Akash Arani
+
+### Undergraduates
 
 Adrian Gushin
 
 Arushi Dhillon
 
 Zach Karol
-
-Kathy Ning
 
 
 ### Alumni
