@@ -59,6 +59,6 @@ Jayeol Chun (BS 2018, now Ph.D. student at Brandeis University)
 
 Caroline Holmes (BS 2017, now Ph.D. student at Princeton University)
 
-Itai Pinkoviezky (postdoc, now data scientist at Craneware)
+Itai Pinkoviezky (postdoc, now data scientist at Cognomotiv)
 
 
