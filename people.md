@@ -36,6 +36,8 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Qihan Liu](/people/ql.html)
 
+Megan Phillips
+
 ### Tech
 
 Akash Arani
