@@ -46,7 +46,7 @@ Adrian Gushin
 
 Arushi Dhillon
 
-Zach Karol
+[Zach Karol](https://www.zachkarol.com/)
 
 
 ### Alumni
