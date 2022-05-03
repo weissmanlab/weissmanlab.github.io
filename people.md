@@ -38,10 +38,6 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 Megan Phillips
 
-### Tech
-
-Akash Arani
-
 ### Undergraduates
 
 Adrian Gushin
@@ -52,6 +48,8 @@ Arushi Dhillon
 
 
 ### Alumni
+
+Akash Arani (BS 2021, now Ph.D. student Georgia Tech)
 
 Tyler Smith (Ph.D. 2021, now researcher at Boeing)
 
