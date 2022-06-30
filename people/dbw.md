@@ -9,6 +9,6 @@ Publication list at [Google Scholar](https://scholar.google.com/citations?user=8
 
 [CV](/people/cv.pdf)
 
-Emory pages: [Physics](http://www.physics.emory.edu/home/people/bios/weissman-daniel.html), [Biology](http://www.biology.emory.edu/index.cfm?name=Daniel-Weissman&faculty=468)
+Emory pages: [Physics](http://www.physics.emory.edu/home/people/bios/weissman-daniel.html), [Biology](http://www.biology.emory.edu/home/people/bios/associated/weissman-daniel.html)
 
 ![Daniel Weissman](/images/dbw.jpg)
