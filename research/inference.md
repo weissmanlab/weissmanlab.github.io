@@ -10,11 +10,11 @@ In order to predict how populations will evolve in the future, we need to know h
 The rapid advance of genetic sequencing technology is creating the potential to do this on an unprecedented scale,
 but we need to figure out what sequences we need and how to interpret them. 
 Doing so will require new analytical tools that ask questions that are only now becoming answerable.
-We have developed a method for [Minimal-Assumption Genomic Inference of Coalescence (MAGIC)](https://elifesciences.org/articles/24836) -- 
-please [try it out](https://github.com/weissmanlab/magic) and let us know what you think!
 
-Sequencing data is far and away our best tool for observing natural microbial populations
-(i.e., most of life on Earth) -- our best hope for answering any question about them is
-to reduce it to a sequencing problem. We are working on how to do this in general,
-and in specific applications, including studying the 
-[influenza transmission process](http://jvi.asm.org/content/early/2017/04/27/JVI.00171-17.abstract).
+Papers:
+
+- [Weissman and Hallatschek (2017), Minimal-assumption inference from population-genomic data](https://elifesciences.org/articles/24836)---please [try it out](https://github.com/weissmanlab/magic) and let us know what you think!
+- [Sobel Leonard et al (2017), Transmission Bottleneck Size Estimation from Pathogen Deep-Sequencing Data, with an Application to Human Influenza A Virus](http://jvi.asm.org/content/early/2017/04/27/JVI.00171-17.abstract), and see [correction](https://journals.asm.org/doi/full/10.1128/JVI.00936-19)
+- [Ghafari et al (2020), Inferring transmission bottleneck size from viral sequence data using a novel haplotype reconstruction method](https://journals.asm.org/doi/full/10.1128/JVI.00014-20)
+- [Mehta et al (2022), Detecting patterns of accessory genome coevolution in bacterial species using data from thousands of bacterial genomes](https://www.biorxiv.org/content/10.1101/2022.03.14.484367)
+- [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](https://www.biorxiv.org/content/10.1101/2022.05.09.491227)

@@ -16,5 +16,7 @@ How strong is this effect in natural populations, and how can we [detect](/resea
 How much recombination is needed to break down interference? 
 
 Papers:
+
 - [Weissman and Barton (2012), Limits to the rate of adaptive substitution in sexual populations](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002740)
 - [Weissman and Hallatschek (2014), The rate of adaptation in large sexual populations with linear chromosomes](http://www.genetics.org/content/196/4/1167.full-text.pdf%2Bhtml)
+- [Holmes, Nemenman, and Weissman (2018), Increased adaptability to sudden environmental change can more than make up for the two-fold cost of males](https://iopscience.iop.org/article/10.1209/0295-5075/123/58001)
