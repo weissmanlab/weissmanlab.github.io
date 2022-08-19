@@ -20,8 +20,11 @@ What does our theory predict about this case?
 
 Papers:
 
-- [Weissman et al (2009), The rate at which asexual populations cross fitness valleys](http://www.sciencedirect.com/science/article/pii/S0040580909000264)
-- [Weissman, Feldman, and Fisher (2010), The rate of fitness-valley crossing in sexual populations](http://www.genetics.org/content/186/4/1389.short)
-- [Trotter et al (2014), Cryptic genetic variation can make “irreducible complexity” a common mode of adaptation in sexual populations](http://onlinelibrary.wiley.com/doi/10.1111/evo.12517/pdf)
-- [Ghafari and Weissman (2019), The expected time to cross extended fitness plateaus](https://doi.org/10.1016/j.tpb.2019.03.008)
 - [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](https://www.biorxiv.org/content/10.1101/2022.05.09.491227)
+- [Ghafari and Weissman (2019), The expected time to cross extended fitness plateaus](https://doi.org/10.1016/j.tpb.2019.03.008)
+- [Trotter et al (2014), Cryptic genetic variation can make “irreducible complexity” a common mode of adaptation in sexual populations](http://onlinelibrary.wiley.com/doi/10.1111/evo.12517/pdf)
+- [Weissman, Feldman, and Fisher (2010), The rate of fitness-valley crossing in sexual populations](http://www.genetics.org/content/186/4/1389.short)
+- [Weissman et al (2009), The rate at which asexual populations cross fitness valleys](http://www.sciencedirect.com/science/article/pii/S0040580909000264)
+
+
+
