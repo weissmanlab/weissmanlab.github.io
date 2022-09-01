@@ -30,8 +30,6 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 ### PhD students
 
-[Brent Allman](/people/bea.html)
-
 [Linnea Bavik](/people/lmb.html)
 
 [Qihan Liu](/people/ql.html)
@@ -48,6 +46,8 @@ Arushi Dhillon
 
 
 ### Alumni
+
+Brent Allman (Ph.D. 2022, now postdoc at UT Austin)
 
 Akash Arani (BS 2021, now Ph.D. student Georgia Tech)
 
