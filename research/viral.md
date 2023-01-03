@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Viral population dynamics"
-permalink: /research/space.html
+permalink: /research/viral.html
 categories: [project, test]
 summary: "How do viruses spread and evolve?"
 ---
