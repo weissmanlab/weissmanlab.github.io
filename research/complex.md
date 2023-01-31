@@ -20,7 +20,7 @@ What does our theory predict about this case?
 
 Papers:
 
-- [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](https://www.biorxiv.org/content/10.1101/2022.05.09.491227)
+- [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](http://dx.doi.org/10.3389/fviro.2022.942555)
 - [Ghafari and Weissman (2019), The expected time to cross extended fitness plateaus](https://doi.org/10.1016/j.tpb.2019.03.008)
 - [Trotter et al (2014), Cryptic genetic variation can make “irreducible complexity” a common mode of adaptation in sexual populations](http://onlinelibrary.wiley.com/doi/10.1111/evo.12517/pdf)
 - [Weissman, Feldman, and Fisher (2010), The rate of fitness-valley crossing in sexual populations](http://www.genetics.org/content/186/4/1389.short)

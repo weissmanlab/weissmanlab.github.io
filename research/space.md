@@ -13,7 +13,7 @@ How does this spatial structure interact with adaptive evolution?
 
 Papers:
 
-- [Min et al (2022), Spatial structure alters the site frequency spectrum produced by hitchhiking](https://www.biorxiv.org/content/10.1101/2022.06.08.495311)
-- [Smith and Weissman (2020), Isolation by Distance in Populations with Long-Range Dispersal](https://www.biorxiv.org/content/10.1101/2020.06.24.168211)
+- [Smith and Weissman (2023), Isolation by distance in populations with power-law dispersal](http://dx.doi.org/10.1093/g3journal/jkad023)
+- [Min et al (2022), Spatial structure alters the site frequency spectrum produced by hitchhiking](http://dx.doi.org/10.1093/genetics/iyac139)
 - [Allman and Weissman (2018), Hitchhiking in space: Ancestry in adapting, spatially extended populations](http://dx.doi.org/10.1111/evo.13431)
 
