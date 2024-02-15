@@ -14,7 +14,7 @@ Undergraduates: please contact Daniel directly. Ordinarily, undergraduates joini
 
 ![Group picture](/images/group2021+rohan.jpg)
 
-(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the inset. Not pictured: Adrian, Akash, Kathy, Zach. Photo credit: [Michal Arbilly](https://michalarbilly.com/))
+(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the inset. Photo credit: [Michal Arbilly](https://michalarbilly.com/))
 
 ### Diversity
 
@@ -24,41 +24,47 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Daniel Weissman](/people/dbw.html)
 
-### Postdocs
 
-[Rohan Mehta](/people/rohan.html)
 
-### PhD students
+### Graduate students
 
 [Linnea Bavik](/people/lmb.html)
 
-[Qihan Liu](/people/ql.html)
+Cora Hirst
 
 Megan Phillips
+
+Yuanbo Song
 
 ### Undergraduates
 
 Adrian Gushin
 
-Arushi Dhillon
+CJ Jiang
 
 [Zach Karol](https://www.zachkarol.com/)
 
 
 ### Alumni
 
-Brent Allman (Ph.D. 2022, now postdoc at UT Austin)
+[Rohan Mehta](https://rohansmehta.github.io/) (postdoc, now Assistant Professor at Elmhurst University)
 
-Akash Arani (BS 2021, now Ph.D. student Georgia Tech)
+Qihan Liu (Ph.D. 2023, went on to quantitative analysis)
 
-Tyler Smith (Ph.D. 2021, now researcher at Boeing)
+Arushi Dhillon (current Emory undergrad)
 
-Mahan Ghafari (MSc 2018, now D.Phil. student at Oxford University)
+Brent Allman (Ph.D. 2022, went on to postdoc at UT Austin)
 
-Jayeol Chun (BS 2018, now Ph.D. student at Brandeis University)
+Akash Arani (BS 2021, went on to Ph.D. at Georgia Tech / UMaryland)
 
-Caroline Holmes (BS 2017, now Ph.D. student at Princeton University)
+Tyler Smith (Ph.D. 2021, went on to research at Boeing)
 
-Itai Pinkoviezky (postdoc, now data scientist at Cognomotiv)
+Mahan Ghafari (MSc 2018, went on to D.Phil. at Oxford University)
+
+Jayeol Chun (BS 2018, went on to Ph.D. at Brandeis University)
+
+Caroline Holmes (BS 2017, went on to Ph.D. student at Princeton University)
+
+Itai Pinkoviezky (postdoc, went on to data science in computational genomics)
 
 
