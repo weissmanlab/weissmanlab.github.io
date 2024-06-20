@@ -1,16 +1,19 @@
 ---
 layout: page
-title: "Viral population dynamics"
+title: "Pathogen evolution and population dynamics"
 permalink: /research/viral.html
 categories: [project, test]
 summary: "How do viruses spread and evolve?"
 ---
 
-Pathogenic viruses are ideal systems for studying evolution, with their large population sizes, high mutation rates, short generation times, and near-replicate natural experiments in different infections.
-At the same time, evolution and population genetics are some of our best lenses for answering practically important questions about viral spread and dynamics.
+Pathogens are ideal systems for studying evolution, with their large population sizes, high mutation rates, short generation times, and near-replicate natural experiments in different infections.
+They are especially exciting because many of the most fundamental evolutionary questions about the nature of species and genetic diversity are just starting to be answerable for microbes.
+At the same time, evolution and population genetics are some of our best lenses for answering practically important questions about pathogen spread and dynamics.
 
 Papers:
 
+- [Raghuram et al (2024), Average Nucleotide Identity based _Staphylococcus aureus_ strain grouping allows identification of strain-specific genes in the pangenome](https://www.biorxiv.org/content/10.1101/2024.01.29.577756)
+- [Mehta et al (2023), Detecting patterns of accessory genome coevolution in _Staphylococcus aureus_ using data from thousands of genomes](https://doi.org/10.1186/s12859-023-05363-4)
 - [Koelle et al (2022), 
 Masks Do No More Than Prevent Transmission: Theory and Data Undermine the Variolation Hypothesis](https://www.medrxiv.org/content/10.1101/2022.06.28.22277028)
 - [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](http://dx.doi.org/10.3389/fviro.2022.942555)
