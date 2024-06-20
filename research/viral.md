@@ -3,7 +3,7 @@ layout: page
 title: "Pathogen evolution and population dynamics"
 permalink: /research/viral.html
 categories: [project, test]
-summary: "How do viruses spread and evolve?"
+summary: "How do pathogens spread and evolve?"
 ---
 
 Pathogens are ideal systems for studying evolution, with their large population sizes, high mutation rates, short generation times, and near-replicate natural experiments in different infections.
