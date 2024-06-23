@@ -13,6 +13,7 @@ Doing so will require new analytical tools that ask questions that are only now 
 
 Papers:
 
+- [Raghuram et al (2024), Average Nucleotide Identity based _Staphylococcus aureus_ strain grouping allows identification of strain-specific genes in the pangenome](https://www.biorxiv.org/content/10.1101/2024.01.29.577756)
 - [Mehta et al (2023), Detecting patterns of accessory genome coevolution in _Staphylococcus aureus_ using data from thousands of genomes](https://doi.org/10.1186/s12859-023-05363-4)---please [try it out](https://github.com/weissmanlab/decotur) on other species and let us know what you think!
 - [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](http://dx.doi.org/10.3389/fviro.2022.942555)
 - [Ghafari et al (2020), Inferring transmission bottleneck size from viral sequence data using a novel haplotype reconstruction method](https://journals.asm.org/doi/full/10.1128/JVI.00014-20)

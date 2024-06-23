@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Pathogen evolution and population dynamics"
-permalink: /research/viral.html
+permalink: /research/microbes.html
 categories: [project, test]
 summary: "How do pathogens spread and evolve?"
 ---
