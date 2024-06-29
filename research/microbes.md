@@ -12,7 +12,7 @@ At the same time, evolution and population genetics are some of our best lenses 
 
 Papers:
 
-- [Raghuram et al (2024), Average Nucleotide Identity based _Staphylococcus aureus_ strain grouping allows identification of strain-specific genes in the pangenome](https://www.biorxiv.org/content/10.1101/2024.01.29.577756)
+- [Raghuram et al (2024), Average Nucleotide Identity based _Staphylococcus aureus_ strain grouping allows identification of strain-specific genes in the pangenome](https://doi.org/10.1128/msystems.00143-24)
 - [Mehta et al (2023), Detecting patterns of accessory genome coevolution in _Staphylococcus aureus_ using data from thousands of genomes](https://doi.org/10.1186/s12859-023-05363-4)
 - [Koelle et al (2022), 
 Masks Do No More Than Prevent Transmission: Theory and Data Undermine the Variolation Hypothesis](https://www.medrxiv.org/content/10.1101/2022.06.28.22277028)
