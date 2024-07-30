@@ -12,9 +12,9 @@ Students interested in applying to PBEE should also contact Daniel before applyi
 
 Undergraduates: please contact Daniel directly. Ordinarily, undergraduates joining the group should have some familiarity with programming and should start no later than the beginning of their junior year. Earlier is better---making a real scientific discovery takes time! 
 
-![Group picture](/images/group2021+rohan.jpg)
+![Group picture](/images/group2024.jpg)
 
-(L-R: Yoav, Daniel, Talia, Arushi, Brent, Milo, Tyler, Linnea, Qihan, and Rohan in the inset. Photo credit: [Michal Arbilly](https://michalarbilly.com/))
+L-R: CJ (front), Zach (back), Aalhad, Adrian, Linnea, [Megan B](https://mlizbishop.com/), Cora, Yuanbo, Megan P, Daniel
 
 ### Diversity
 
@@ -30,40 +30,43 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Linnea Bavik](/people/lmb.html)
 
+Aalhad Bhatt
+
 Cora Hirst
 
 Megan Phillips
 
-Yuanbo Song
 
 ### Undergraduates
 
-Adrian Gushin
-
 CJ Jiang
-
-[Zach Karol](https://www.zachkarol.com/)
 
 
 ### Alumni
 
-[Rohan Mehta](https://rohansmehta.github.io/) (postdoc, now Assistant Professor at Elmhurst University)
+Adrian Gushin (BS 2024, now postbac at Emory)
 
-Qihan Liu (Ph.D. 2023, went on to quantitative analysis)
+[Zach Karol](https://www.zachkarol.com/) (BS 2024, now at Discover)
 
-Arushi Dhillon (current Emory undergrad)
+Yuanbo Song (MSc 2024, went on to Xiaomi)
 
-Brent Allman (Ph.D. 2022, went on to postdoc at UT Austin)
+[Rohan Mehta](https://rohansmehta.github.io/) (postdoc, now Assistant Professor at Elmhurst)
 
-Akash Arani (BS 2021, went on to Ph.D. at Georgia Tech / UMaryland)
+Qihan Liu (PhD 2023, went on to quantitative analysis, now at Truist)
 
-Tyler Smith (Ph.D. 2021, went on to research at Boeing)
+Arushi Dhillon (BS 2024, now at Epic)
 
-Mahan Ghafari (MSc 2018, went on to D.Phil. at Oxford University)
+Brent Allman (PhD 2022, went on to postdoc at UT Austin)
 
-Jayeol Chun (BS 2018, went on to Ph.D. at Brandeis University)
+Akash Arani (BS 2021, went on to PhD at Georgia Tech / UMaryland)
 
-Caroline Holmes (BS 2017, went on to Ph.D. student at Princeton University)
+Tyler Smith (PhD 2021, went on to research at Boeing)
+
+Mahan Ghafari (MSc 2018, went on to DPhil at Oxford, currently postdoc at Oxford)
+
+Jayeol Chun (BS 2018, went on to PhD at Brandeis)
+
+Caroline Holmes (BS 2017, went on to PhD at Princeton, currently postdoc at Harvard)
 
 Itai Pinkoviezky (postdoc, went on to data science in computational genomics)
 
