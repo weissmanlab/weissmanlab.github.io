@@ -24,7 +24,9 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Daniel Weissman](/people/dbw.html)
 
+### Research scientist
 
+[Farshad Shirani](https://farshadshirani.com/)
 
 ### Graduate students
 
