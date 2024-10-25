@@ -64,11 +64,11 @@ Akash Arani (BS 2021, went on to PhD at Georgia Tech / UMaryland)
 
 Tyler Smith (PhD 2021, went on to research at Boeing)
 
-Mahan Ghafari (MSc 2018, went on to DPhil at Oxford, currently postdoc at Oxford)
+Mahan Ghafari (MSc 2018, went on to DPhil at Oxford, now group leader at Oxford)
 
 Jayeol Chun (BS 2018, went on to PhD at Brandeis)
 
-Caroline Holmes (BS 2017, went on to PhD at Princeton, currently postdoc at Harvard)
+Caroline Holmes (BS 2017, went on to PhD at Princeton, now postdoc at Harvard)
 
 Itai Pinkoviezky (postdoc, went on to data science in computational genomics)
 
