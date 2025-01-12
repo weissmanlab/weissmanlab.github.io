@@ -30,8 +30,6 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 ### Graduate students
 
-[Linnea Bavik](/people/lmb.html)
-
 Aalhad Bhatt
 
 Cora Hirst
@@ -45,6 +43,8 @@ CJ Jiang
 
 
 ### Alumni
+
+[Linnea Bavik](/people/lmb.html) (PhD 2024, now postdoc at Georgia Tech)
 
 Adrian Gushin (BS 2024, now postbac at Emory)
 
