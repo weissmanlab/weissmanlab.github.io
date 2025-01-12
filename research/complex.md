@@ -20,6 +20,8 @@ What does our theory predict about this case?
 
 Papers:
 
+- [Tran et al (2024), Effects of recombination on multi-drug resistance evolution in _Plasmodium falciparum_ malaria](https://doi.org/10.1101/2024.12.18.628924)
+- [Stana et al (2024), Evolutionary rescue by aneuploidy in tumors exposed to anti-cancer drugs](https://doi.org/10.32942/X26K8C)
 - [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](http://dx.doi.org/10.3389/fviro.2022.942555)
 - [Ghafari and Weissman (2019), The expected time to cross extended fitness plateaus](https://doi.org/10.1016/j.tpb.2019.03.008)
 - [Trotter et al (2014), Cryptic genetic variation can make “irreducible complexity” a common mode of adaptation in sexual populations](http://onlinelibrary.wiley.com/doi/10.1111/evo.12517/pdf)
