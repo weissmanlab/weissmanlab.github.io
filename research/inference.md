@@ -13,6 +13,7 @@ Doing so will require new analytical tools that ask questions that are only now 
 
 Papers:
 
+- [Shi et al (2025), Genetic drift acts strongly on within-host influenza virus populations during acute infection but does not act alone](https://doi.org/10.1101/2025.08.27.672713)
 - [Raghuram et al (2024), Average Nucleotide Identity based _Staphylococcus aureus_ strain grouping allows identification of strain-specific genes in the pangenome](https://doi.org/10.1128/msystems.00143-24)
 - [Mehta et al (2023), Detecting patterns of accessory genome coevolution in _Staphylococcus aureus_ using data from thousands of genomes](https://doi.org/10.1186/s12859-023-05363-4)---please [try it out](https://github.com/weissmanlab/decotur) on other species and let us know what you think!
 - [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](http://dx.doi.org/10.3389/fviro.2022.942555)
