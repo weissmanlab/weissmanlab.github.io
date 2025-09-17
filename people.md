@@ -46,7 +46,7 @@ CJ Jiang
 
 [Linnea Bavik](/people/lmb.html) (PhD 2024, now postdoc at Georgia Tech)
 
-Adrian Gushin (BS 2024, now postbac at Emory)
+Adrian Gushin (BS 2024, now PhD student at Georgia Tech)
 
 [Zach Karol](https://www.zachkarol.com/) (BS 2024, now at Discover)
 
