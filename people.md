@@ -60,7 +60,7 @@ Qihan Liu (PhD 2023, went on to quantitative analysis, now at Truist)
 
 Arushi Dhillon (BS 2024, now at Epic)
 
-Brent Allman (PhD 2022, went on to postdoc at UT Austin)
+Brent Allman (PhD 2022, went on to postdoc at UT Austin, now postdoc at Argonne)
 
 Akash Arani (BS 2021, went on to PhD at Georgia Tech / UMaryland)
 
