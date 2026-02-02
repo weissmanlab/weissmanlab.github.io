@@ -34,17 +34,19 @@ Aalhad Bhatt
 
 Cora Hirst
 
-Megan Phillips
+Erekle Kalichava
 
+Julie Li
+
+Megan Phillips
 
 ### Undergraduates
 
 CJ Jiang
 
-
 ### Alumni
 
-[Linnea Bavik](/people/lmb.html) (PhD 2024, now postdoc at Georgia Tech)
+Linnea Bavik (PhD 2024, now postdoc at Georgia Tech)
 
 Adrian Gushin (BS 2024, now PhD student at Georgia Tech)
 
