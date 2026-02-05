@@ -24,9 +24,13 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 [Daniel Weissman](/people/dbw.html)
 
-### Research scientist
+### Research scientists
 
 [Farshad Shirani](https://farshadshirani.com/)
+
+### Postdocs
+
+Motasem ElGamel
 
 ### Graduate students
 
