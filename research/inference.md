@@ -13,6 +13,8 @@ Doing so will require new analytical tools that ask questions that are only now 
 
 Papers:
 
+- [Zhao, Mehta, and Weissman (2026), Distribution of time to the most recent pairwise genetic common ancestor of a set of genomes](https://doi.org/10.1093/genetics/iyaf252)
+- [Phillips et al (2025), Transition of _Staphylococcus aureus_ tetracycline resistance plasmid pT181 from independent multicopy replicon to predominantly integrated chromosomal element over 65 years](https://doi.org/10.7554/eLife.109393)
 - [Shi et al (2025), Genetic drift acts strongly on within-host influenza virus populations during acute infection but does not act alone](https://doi.org/10.1101/2025.08.27.672713)
 - [Raghuram et al (2024), Average Nucleotide Identity based _Staphylococcus aureus_ strain grouping allows identification of strain-specific genes in the pangenome](https://doi.org/10.1128/msystems.00143-24)
 - [Mehta et al (2023), Detecting patterns of accessory genome coevolution in _Staphylococcus aureus_ using data from thousands of genomes](https://doi.org/10.1186/s12859-023-05363-4)---please [try it out](https://github.com/weissmanlab/decotur) on other species and let us know what you think!
