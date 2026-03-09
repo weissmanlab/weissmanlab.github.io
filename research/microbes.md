@@ -12,6 +12,7 @@ At the same time, evolution and population genetics are some of our best lenses 
 
 Papers:
 
+- [Hirst et al (2026), Preventing disease emergence following eradication: application to mpox](https://doi.org/10.64898/2026.03.03.709287)
 - [Jiang and Weissman (2025), Bursts of reproduction can create genetic structure in frequently recombining bacterial populations](https://doi.org/10.1101/2025.11.25.690602)
 - [Phillips et al (2025), Transition of _Staphylococcus aureus_ tetracycline resistance plasmid pT181 from independent multicopy replicon to predominantly integrated chromosomal element over 65 years](https://doi.org/10.7554/eLife.109393)
 - [Shi et al (2025), Genetic drift acts strongly on within-host influenza virus populations during acute infection but does not act alone](https://doi.org/10.1101/2025.08.27.672713)

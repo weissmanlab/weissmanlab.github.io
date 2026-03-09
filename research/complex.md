@@ -20,6 +20,7 @@ What does our theory predict about this case?
 
 Papers:
 
+- [Hirst et al (2026), Preventing disease emergence following eradication: application to mpox](https://doi.org/10.64898/2026.03.03.709287)
 - [Tran et al (2025), Effects of recombination on multi-drug resistance evolution in _Plasmodium falciparum_ malaria](https://doi.org/10.1371/journal.pcbi.1013401)
 - [Stana et al (2025), Evolutionary rescue by aneuploidy in tumors exposed to anti-cancer drugs](https://doi.org/10.1093/genetics/iyaf098)
 - [Ghafari et al (2022), Investigating the evolutionary origins of the first three SARS-CoV-2 variants of concern](http://dx.doi.org/10.3389/fviro.2022.942555)
