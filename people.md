@@ -30,7 +30,7 @@ Our lab welcomes participants of every socio-economic background, nationality, r
 
 ### Postdocs
 
-Motasem ElGamel
+[Motasem ElGamel](https://motasemelgamel.github.io/)
 
 ### Graduate students
 
@@ -50,9 +50,9 @@ CJ Jiang
 
 ### Alumni
 
-Linnea Bavik (PhD 2024, now postdoc at Georgia Tech)
+Linnéa Båvik (PhD 2024, now postdoc at Georgia Tech)
 
-Adrian Gushin (BS 2024, now PhD student at Georgia Tech)
+[Adrian Gushin](https://adriangushin.github.io/) (BS 2024, now PhD student at Georgia Tech)
 
 [Zach Karol](https://www.zachkarol.com/) (BS 2024, now at Discover)
 
@@ -70,7 +70,7 @@ Akash Arani (BS 2021, went on to PhD at Georgia Tech / UMaryland)
 
 Tyler Smith (PhD 2021, went on to research at Boeing)
 
-Mahan Ghafari (MSc 2018, went on to DPhil at Oxford, now group leader at Oxford)
+[Mahan Ghafari](https://www.biology.ox.ac.uk/people/mahan-ghafari) (MSc 2018, went on to DPhil at Oxford, now group leader at Oxford)
 
 Jayeol Chun (BS 2018, went on to PhD at Brandeis)
 
