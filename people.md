@@ -12,9 +12,9 @@ Students interested in applying to PBEE should also contact Daniel before applyi
 
 Undergraduates: please contact Daniel directly. Ordinarily, undergraduates joining the group should have some familiarity with programming and should start no later than the beginning of their junior year. Earlier is better---making a real scientific discovery takes time! 
 
-![Group picture](/images/group2024.jpg)
+![Group picture](/images/group2026.jpg)
 
-L-R: CJ (front), Zach (back), Aalhad, Adrian, Linnea, [Megan B](https://mlizbishop.com/), Cora, Yuanbo, Megan P, Daniel
+Clockwise from top: Erekle, Motasem, Daniel, Aalhad, Cora, Julie, Megan, CJ
 
 ### Diversity
 
