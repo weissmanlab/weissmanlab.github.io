@@ -46,7 +46,7 @@ Megan Phillips
 
 ### Undergraduates
 
-CJ Jiang
+[CJ Jiang](https://cjdjpj.github.io/)
 
 ### Alumni
 
