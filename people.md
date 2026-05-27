@@ -44,11 +44,9 @@ Julie Li
 
 Megan Phillips
 
-### Undergraduates
-
-CJ Jiang
-
 ### Alumni
+
+[CJ Jiang](https://cjdjpj.github.io/) (BS 2026, now PhD student at MIT)
 
 Linnéa Båvik (PhD 2024, now postdoc at Georgia Tech)
 
